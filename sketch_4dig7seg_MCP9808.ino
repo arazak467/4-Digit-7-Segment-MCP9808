@@ -12,7 +12,7 @@
  *              
  * Datasheet: https://cdn-shop.adafruit.com/datasheets/MCP9808.pdf
  * 
- * Created on 13 June 2022 by arazak467
+ * Created on 13 June 2022 by c010rblind3ngineer
  */
 
 #include <Wire.h>
