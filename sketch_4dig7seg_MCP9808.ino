@@ -5,7 +5,7 @@
                 - Arduino Uno
                 - MCP9808
                 - 4 digit 7 segment display
-                - 4 x 1kOhm resistor
+                - 1kOhm resistor (x 4)
 
    Libraries:
                 - Wire
